@@ -1,5 +1,5 @@
 # .quality is a HowToHireMe collection configuration files for linters and code analysis tools. 
-Collectcion of configurations dotfiles for code quality tools.
+Collection of configuration dotfiles for code quality tools.
 
 #### JavaScript
 * [Eslint](https://github.com/eslint) - [.eslintrc.yml](https://github.com/howtohireme/.quality/blob/master/.eslintrc.yml)
